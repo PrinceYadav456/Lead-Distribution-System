@@ -2,6 +2,10 @@
 
 Production-oriented mini lead distribution platform built with Next.js 15, TypeScript, Tailwind CSS, PostgreSQL, Prisma, and Server-Sent Events for live dashboard refreshes.
 
+## Live Demo
+
+Live URL: https://lead-distribution-system-eight.vercel.app/
+
 ## What it does
 
 - Accepts public lead submissions at `/request-service`.
